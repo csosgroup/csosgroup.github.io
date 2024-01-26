@@ -1,3 +1,3 @@
 
-## [CSOS Home](https://sonamu.atlassian.net/wiki/CSOSHOME)
+## [CSOS Home](https://sonamu.atlassian.net/wiki/spaces/CSOSHOME/overview)
 
